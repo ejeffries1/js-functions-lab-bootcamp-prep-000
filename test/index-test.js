@@ -1,4 +1,5 @@
 /*global describe, it*/
+var name = "evan"
 
 describe('functions', () => {
   describe('happyHolidays', () => {

@@ -1,5 +1,4 @@
 // write your code below!
-var name = "evan"
 
 function happyHolidays() {
   return ("Happy holidays!")
